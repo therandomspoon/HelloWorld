@@ -21,4 +21,4 @@ To install there are two methods.
 6. Done¬
 
 ## Method 2: Using pypi
-1. Coming soon
+1. `pip install libre-helloworld`
