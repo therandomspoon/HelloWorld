@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: HelloWorld
+Version: 0.1.0
+Summary: Simple Hello World function
+Home-page: https://github.com/therandomspoon/HelloWorld
+Author: Therandomspoon
+Author-email: admin@randspoon.co.uk
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Requires-Python: >=3.6
+Dynamic: author
+Dynamic: author-email
+Dynamic: classifier
+Dynamic: home-page
+Dynamic: requires-python
+Dynamic: summary
